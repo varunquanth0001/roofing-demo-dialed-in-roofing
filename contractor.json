@@ -1,0 +1,470 @@
+{
+  "demo": false,
+  "preview": {
+    "notice": "Concept preview — prepared by SolvynxAI. This preview is for demonstration purposes and is not the official website of Dialed In Roofing & Exteriors.",
+    "formNotice": "This is a concept preview. Forms are not connected or submitted."
+  },
+  "testOnly": false,
+  "meta": {
+    "title": "Dialed In Roofing & Exteriors | Roofing in Germantown, WI",
+    "description": "Dialed In Roofing & Exteriors: residential roofing, commercial roofing and chimney services for homes and businesses in Germantown. Free estimates.",
+    "robots": "noindex,nofollow,noarchive"
+  },
+  "brand": {
+    "accent": "#d2432c",
+    "accentDeep": "#b5361f",
+    "section": "#cf422c"
+  },
+  "business": {
+    "name": "Dialed In Roofing & Exteriors",
+    "shortName": "Dialed In Roofing",
+    "wordmark": "Dialed In Roofing",
+    "phone": "(414) 539-7663",
+    "phoneE164": "+14145397663",
+    "email": "info@dialedinroofing.com",
+    "address": "W194 N11180 Kleinmann Drive, Germantown, WI 53022",
+    "hours": null,
+    "legal": "Concept preview",
+    "social": []
+  },
+  "nav": {
+    "services": "Services",
+    "work": "Reviews",
+    "areas": "Areas",
+    "crew": "Team",
+    "process": "Process",
+    "faq": "FAQ",
+    "cta": "Free estimate"
+  },
+  "drawer": {
+    "title": "What we do",
+    "link": "All services →",
+    "areasTitle": "Areas we serve",
+    "cards": [
+      {
+        "img": "service-roof-replacement",
+        "badge": "Residential",
+        "title": "Residential roofing",
+        "meta": "Homes"
+      },
+      {
+        "img": "service-siding",
+        "badge": "Commercial",
+        "title": "Commercial roofing",
+        "meta": "Businesses"
+      },
+      {
+        "img": "service-chimney-repair",
+        "badge": "Chimney",
+        "title": "Chimney services",
+        "meta": "Repairs to full rebuilds"
+      },
+      {
+        "img": "service-windows",
+        "badge": "Gutters",
+        "title": "Gutters",
+        "meta": "Gutters"
+      }
+    ],
+    "promo": {
+      "kicker": "Free estimate",
+      "title": "Get a free roof inspection",
+      "line": "Your roof is inspected and photographed, then you get a detailed proposal.",
+      "button": "Book it"
+    }
+  },
+  "hero": {
+    "eyebrow": "Roofing & exteriors · Germantown, Wisconsin",
+    "title": "Roofing,<br /><mark class=\"hl\">dialed in.</mark>",
+    "lead": "Residential and commercial roofing, gutters, chimney work and waterproofing from Germantown, Wisconsin.",
+    "cta": "Book a free estimate",
+    "cta2": "See services",
+    "meta": null,
+    "chips": [
+      [
+        "all",
+        "All"
+      ],
+      [
+        "roof",
+        "Roofing"
+      ],
+      [
+        "storm",
+        "Storm & claims"
+      ],
+      [
+        "other",
+        "More"
+      ]
+    ],
+    "countLabel": "services",
+    "scrollHint": "Scroll to fly in",
+    "cursorLabel": "View service",
+    "featuredLabel": "Featured service",
+    "diveCta": "All services"
+  },
+  "jobs": [
+    {
+      "k": "roof",
+      "label": "Residential",
+      "em": "Free est.",
+      "type": null,
+      "town": "Germantown, WI",
+      "title": "Residential roofing",
+      "img": "service-roof-replacement",
+      "line": "Roofing for homes.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        1240,
+        900
+      ]
+    },
+    {
+      "k": "roof",
+      "label": "Commercial",
+      "em": null,
+      "type": null,
+      "town": "Germantown, WI",
+      "title": "Commercial roofing",
+      "img": "service-siding",
+      "line": "Commercial roofing for businesses.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        760,
+        520
+      ]
+    },
+    {
+      "k": "other",
+      "label": "Chimney",
+      "em": null,
+      "type": null,
+      "town": "Germantown, WI",
+      "title": "Chimney services",
+      "img": "service-chimney-repair",
+      "line": "Chimney and masonry work, from minor repairs to a full rebuild.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        1820,
+        1300
+      ]
+    },
+    {
+      "k": "other",
+      "label": "Gutters",
+      "em": null,
+      "type": null,
+      "town": "Germantown, WI",
+      "title": "Gutters",
+      "img": "service-windows",
+      "line": "Gutters.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        560,
+        1290
+      ]
+    },
+    {
+      "k": "storm",
+      "label": "Waterproofing",
+      "em": null,
+      "type": null,
+      "town": "Germantown, WI",
+      "title": "Waterproofing",
+      "img": "service-roof-replacement",
+      "line": "Waterproofing.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        1480,
+        430
+      ]
+    }
+  ],
+  "stats": {
+    "eyebrow": "01 · Dialed In Roofing",
+    "title": "Roofs, chimneys<br /><mark>and gutters.</mark>",
+    "body": "Residential and commercial roofing with chimney, gutter and waterproofing work under one roof.",
+    "cta": "Get a free estimate",
+    "signs": [
+      {
+        "count": 5,
+        "label": "roofing services"
+      },
+      {
+        "count": 1,
+        "label": "service area"
+      }
+    ],
+    "tickerLabel": "Why Dialed In Roofing",
+    "tickerBadge": null,
+    "ticker": [
+      [
+        "Residential and commercial roofing",
+        ""
+      ],
+      [
+        "Gutters, chimneys and waterproofing",
+        ""
+      ],
+      [
+        "Free quotes",
+        ""
+      ]
+    ]
+  },
+  "services": {
+    "eyebrow": "02 · Services",
+    "title": "Everything on<br /><mark>top.</mark>",
+    "cta": "Free estimate",
+    "countLabel": "services",
+    "linkLabel": "Book a free estimate",
+    "tabs": [
+      [
+        "all",
+        "All"
+      ],
+      [
+        "roof",
+        "Roofing"
+      ],
+      [
+        "storm",
+        "Storm & claims"
+      ],
+      [
+        "other",
+        "More"
+      ]
+    ],
+    "items": [
+      {
+        "f": "roof",
+        "big": true,
+        "tag": "Residential",
+        "img": "service-roof-replacement",
+        "title": "Residential roofing",
+        "sub": "Homes",
+        "line": "Roofing for homes.",
+        "specs": "Residential",
+        "pin": [
+          "Germantown",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "roof",
+        "big": false,
+        "tag": "Commercial",
+        "img": "service-siding",
+        "title": "Commercial roofing",
+        "sub": "Businesses",
+        "line": null,
+        "specs": "Commercial",
+        "pin": [
+          "Germantown",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "other",
+        "big": false,
+        "tag": "Chimney",
+        "img": "service-chimney-repair",
+        "title": "Chimney services",
+        "sub": "Repairs to full rebuilds",
+        "line": null,
+        "specs": "Repair · rebuild",
+        "pin": [
+          "Germantown",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "other",
+        "big": false,
+        "tag": "Gutters",
+        "img": "service-windows",
+        "title": "Gutters",
+        "sub": "Gutters",
+        "line": null,
+        "specs": "Gutters",
+        "pin": [
+          "Germantown",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "storm",
+        "big": false,
+        "tag": "Waterproofing",
+        "img": "service-roof-replacement",
+        "title": "Waterproofing",
+        "sub": "Keep water out",
+        "line": null,
+        "specs": "Waterproofing",
+        "pin": [
+          "Germantown",
+          "free estimate"
+        ]
+      }
+    ]
+  },
+  "areas": {
+    "eyebrow": "03 · Areas we serve",
+    "title": "Based in<br /><mark>Germantown.</mark>",
+    "body": "Serving homes and businesses from Germantown, Wisconsin.",
+    "cardLink": "Book a free estimate →",
+    "center": [
+      30,
+      46
+    ],
+    "items": [
+      {
+        "n": "Germantown",
+        "c": "WI",
+        "x": 30,
+        "y": 46,
+        "img": "service-roof-replacement",
+        "badge": "Our office",
+        "stats": null,
+        "note": "W194 N11180 Kleinmann Drive, Germantown, WI 53022"
+      }
+    ]
+  },
+  "estimate": {
+    "eyebrow": "04 · Free estimate",
+    "title": "Tell us about<br /><mark class=\"dark\">your roof.</mark>",
+    "body": "Share a few details and we will follow up about your roof.",
+    "cardTitle": "Quick request",
+    "addressPlaceholder": "Street address",
+    "resultLabel": "Your roof",
+    "basis": "Free inspection in {town}",
+    "pricing": null,
+    "noPriceNote": "Material, roof height and pitch all affect the price. You get an exact price after an inspection, with no guesswork.",
+    "cta": "Book my free estimate",
+    "foot": "Free estimates"
+  },
+  "process": {
+    "eyebrow": "How it works · 4 steps",
+    "title": "4 steps,<br /><mark>start to finish.</mark>",
+    "counterLabel": "Step",
+    "steps": [
+      {
+        "t": "Get in touch",
+        "x": "Call (414) 539-7663 or send the form below with a few details about your roof.",
+        "img": "ba-storm-before",
+        "vf": "Get in touch",
+        "pin": null,
+        "live": "Get in touch",
+        "chip": "Get in touch",
+        "flap": "GET IN TOU"
+      },
+      {
+        "t": "Inspection",
+        "x": "The roof is looked over on site so the work can be scoped properly.",
+        "img": "ba-worn-before",
+        "vf": "Inspection",
+        "pin": null,
+        "live": "Inspection",
+        "chip": "Inspection",
+        "flap": "INSPECTION"
+      },
+      {
+        "t": "Proposal",
+        "x": "You receive the scope of work and the price before anything starts.",
+        "img": "service-roof-repair",
+        "vf": "Proposal",
+        "pin": null,
+        "live": "Proposal",
+        "chip": "Proposal",
+        "flap": "PROPOSAL"
+      },
+      {
+        "t": "The work",
+        "x": "Work is scheduled at a time that suits you.",
+        "img": "service-roof-replacement",
+        "vf": "The work",
+        "pin": null,
+        "live": "The work",
+        "chip": "The work",
+        "flap": "THE WORK"
+      }
+    ]
+  },
+  "crew": {
+    "show": false,
+    "items": []
+  },
+  "stories": {
+    "show": false,
+    "eyebrow": "05 · Reviews",
+    "title": "What customers<br /><mark>say.</mark>",
+    "plateTitle": "Review",
+    "photoNote": "Illustrative photo",
+    "items": []
+  },
+  "season": {
+    "show": false,
+    "towns": {},
+    "posts": []
+  },
+  "faq": {
+    "eyebrow": "05 · Questions",
+    "title": "Questions,<br /><mark>answered.</mark>",
+    "contactLead": "Didn’t see your question? Call",
+    "contactJoin": "or email",
+    "contactTail": "",
+    "cta": "Call us",
+    "tabs": [
+      [
+        "all",
+        "All"
+      ]
+    ],
+    "items": [
+      {
+        "g": "all",
+        "q": "What services do you offer?",
+        "a": "Residential roofing, commercial roofing, chimney services, gutters and waterproofing."
+      },
+      {
+        "g": "all",
+        "q": "Which areas do you serve?",
+        "a": "Germantown, WI."
+      },
+      {
+        "g": "all",
+        "q": "How do I get a free estimate?",
+        "a": "Use the form on this page, or call (414) 539-7663 and email info@dialedinroofing.com."
+      }
+    ]
+  },
+  "book": {
+    "eyebrow": "Free estimate",
+    "title": "Request a free<br /><mark>quote.</mark>",
+    "body": "Choose a service and a time that suits you, and the team will be in touch to confirm.",
+    "cardTitle": "Book a free estimate",
+    "cardNote": "About 60 seconds",
+    "times": [
+      "9:00 am",
+      "11:00 am",
+      "1:00 pm",
+      "3:00 pm"
+    ],
+    "submit": "Request visit",
+    "thanks": "Thanks, <b>{name}</b>. This is a concept preview. Forms are not connected or submitted. To book, call (414) 539-7663.",
+    "under": null,
+    "callPrefix": "Or call"
+  },
+  "footer": {
+    "officeLabel": "Our office",
+    "companyTitle": "Company",
+    "newsletter": null
+  }
+}
